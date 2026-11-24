@@ -20,7 +20,7 @@ viktor=# SELECT * FROM about_me;
 
 - Building **PostgreSQL extensions in C**
 - BSc in Software Engineering from Altai State Technical University **with honours**, now doing my MSc there
-- **Open to job opportunities**
+- **Open to job opportunities**: [my resume as a psql session](https://victornagibator.github.io/resume/) · CV in PDF: [EN](https://victornagibator.github.io/resume/Donskoi_Viktor_CV_EN.pdf) · [RU](https://victornagibator.github.io/resume/Donskoi_Viktor_CV_RU.pdf)
 
 Reach me: [Telegram](https://t.me/VictorNagibator) · [Email](mailto:vityadonskoy2004@gmail.com)
 
